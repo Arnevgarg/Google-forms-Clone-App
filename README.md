@@ -13,7 +13,7 @@ This is the backend server for a Google Forms clone, built with TypeScript and E
 ## Setup
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/Arnevgarg/Google-forms-Clone-Backend.git)
    cd google-forms-clone-backend
 2. Install dependencies:
    ```sh
